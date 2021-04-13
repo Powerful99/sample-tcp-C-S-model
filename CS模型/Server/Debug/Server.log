@@ -1,0 +1,5 @@
+﻿  server.cpp
+e:\计算机网络\网络编程\server\server\server.cpp(74): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): note: 参见“inet_ntoa”的声明
+  Server.vcxproj -> E:\计算机网络\网络编程\Server\Debug\Server.exe
+  Server.vcxproj -> E:\计算机网络\网络编程\Server\Debug\Server.pdb (Full PDB)
